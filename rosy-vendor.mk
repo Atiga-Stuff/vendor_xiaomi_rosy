@@ -992,3 +992,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@4.0-service.xml \
     manifest_vendor.dolby.hardware.dms.xml
 
+PRODUCT_PACKAGES += \
+    vendor_lib_libEGL_adreno_so \
+    vendor_lib_libGLESv2_adreno_so \
+    vendor_lib64_libEGL_adreno_so \
+    vendor_lib64_libGLESv2_adreno_so
